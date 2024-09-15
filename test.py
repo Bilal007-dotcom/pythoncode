@@ -1,1 +1,1 @@
-rint("Wassup Buddy!! v65")
+print("Wassup Buddy!! v65")
